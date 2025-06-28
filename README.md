@@ -1,4 +1,4 @@
-# 🏦 ATM Interface
+#  ATM Interface
 
 ## Objective
 
